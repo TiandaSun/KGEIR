@@ -1,0 +1,27 @@
+# KGEIR: Knowledge Graph-Enhanced Iterative Reasoning
+# Core dependencies
+
+# LLM integration
+llama-index>=0.10.0
+llama-index-llms-ollama>=0.1.0
+
+# Knowledge Graph
+rdflib>=6.0.0
+
+# NLP
+spacy>=3.0.0
+sentence-transformers>=2.0.0
+
+# Search and retrieval
+rank-bm25>=0.2.0
+
+# Data processing
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+
+# Utilities
+tqdm>=4.60.0
+
+# Note: Download spaCy model after install:
+# python -m spacy download en_core_web_sm
