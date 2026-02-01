@@ -1,10 +1,10 @@
 # KGEIR: Knowledge Graph-Enhanced Iterative Reasoning for Multi-Hop Question Answering
 
-[![Paper](https://img.shields.io/badge/Paper-ACL%202025-blue)](https://aclanthology.org/2025.r2lm-1.14/)
+[![Paper](https://img.shields.io/badge/Paper-R2LM%20Workshop%202025-blue)](https://aclanthology.org/2025.r2lm-1.14/)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-green.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Official implementation of the paper **"KGEIR: Knowledge Graph-Enhanced Iterative Reasoning for Multi-Hop Question Answering"** presented at the First Workshop on Comparative Performance Evaluation: From Rules to Language Models (R2LM) at ACL 2025.
+Official implementation of the paper **"KGEIR: Knowledge Graph-Enhanced Iterative Reasoning for Multi-Hop Question Answering"** presented at the First Workshop on Comparative Performance Evaluation: From Rules to Language Models (R2LM 2025), Varna, Bulgaria.
 
 ## Overview
 
